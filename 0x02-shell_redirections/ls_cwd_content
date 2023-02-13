@@ -1,0 +1,24 @@
+total 76
+drwxrwxr-x 2 voldermote voldermote 4096 Feb 13 17:08 .
+drwxrwxr-x 6 voldermote voldermote 4096 Feb 13 14:38 ..
+-rwxrw-r-- 1 voldermote voldermote   32 Feb 13 15:32 0-hello_world
+-rwxrw-r-- 1 voldermote voldermote   35 Feb 13 14:39 0-hello_world~
+-rw-rw-r-- 1 voldermote voldermote    0 Feb 13 17:08 11
+-rwxrw-r-- 1 voldermote voldermote   27 Feb 13 15:59 1-confused_smiley
+-rwxrw-r-- 1 voldermote voldermote   28 Feb 13 16:09 2-hellofile
+-rw-rw-r-- 1 voldermote voldermote    0 Feb 13 17:08 334
+-rwxrw-r-- 1 voldermote voldermote   39 Feb 13 16:13 3-twofiles
+-rwxrw-r-- 1 voldermote voldermote   29 Feb 13 16:18 4-lastlines
+-rwxrw-r-- 1 voldermote voldermote   29 Feb 13 16:21 5-firstlines
+-rwxrw-r-- 1 voldermote voldermote   41 Feb 13 16:30 6-third_line
+-rw-rw-r-- 1 voldermote voldermote   31 Feb 13 16:28 6-third_line~
+-rwxrw-r-- 1 voldermote voldermote   77 Feb 13 16:55 7-file
+-rwxrw-r-- 1 voldermote voldermote   74 Feb 13 16:38 7-file~
+-rwxrw-r-- 1 voldermote voldermote   36 Feb 13 17:07 8-cwd_state
+-rw-rw-r-- 1 voldermote voldermote   39 Feb 13 16:53 \*\'Best
+-rw-rw-r-- 1 voldermote voldermote   12 Feb 13 16:55 \*\'"Best School"\'\*$\?\*\*\*\*\*\:)
+-rw-rw-r-- 1 voldermote voldermote   12 Feb 13 16:50 \*\\'Best School''\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 voldermote voldermote    0 Feb 13 17:08 hey
+-rw-rw-r-- 1 voldermote voldermote    0 Feb 13 17:08 ls_cwd_content
+-rw-rw-r-- 1 voldermote voldermote 1685 Feb 13 15:19 README.md
+-rw-rw-r-- 1 voldermote voldermote    5 Feb 13 16:32 test
